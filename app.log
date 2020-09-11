@@ -1,0 +1,8 @@
+{"level":"error","ts":1599809303.9658391,"caller":"go_kafka/main.go:43","msg":"ListenAndServe error: listen tcp: address PORT: missing port in address","stacktrace":"main.main\n\t/Users/rkritchat/go/src/go_kafka/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1599809336.281791,"caller":"go_kafka/main.go:41","msg":"Start on port "}
+{"level":"error","ts":1599809336.296181,"caller":"go_kafka/main.go:44","msg":"ListenAndServe error: listen tcp :80: bind: address already in use","stacktrace":"main.main\n\t/Users/rkritchat/go/src/go_kafka/main.go:44\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1599809419.0795898,"caller":"go_kafka/main.go:45","msg":"Start on port 9090"}
+{"level":"error","ts":1599809419.080069,"caller":"go_kafka/main.go:48","msg":"ListenAndServe error: listen tcp: address 9090: missing port in address","stacktrace":"main.main\n\t/Users/rkritchat/go/src/go_kafka/main.go:48\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:203"}
+{"level":"info","ts":1599809439.9104671,"caller":"go_kafka/main.go:45","msg":"Start on port :9099"}
+{"level":"info","ts":1599809459.736217,"caller":"go_kafka/main.go:59","msg":"Ping coming"}
+{"level":"info","ts":1599809459.7860548,"caller":"go_kafka/main.go:108","msg":"Message coming"}
